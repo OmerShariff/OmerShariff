@@ -9,7 +9,7 @@ I'm a passionate and results-driven **Software Engineer** with strong foundation
 - **Languages:** Java, Python, JavaScript, C++
 - **DevOps & Cloud:** AWS, CI/CD pipelines, Docker, GitHub Actions
 - **Frameworks & Tools:**  
-  - Android SDK, Unity (C++), Node.js, Express  
+  - Android SDK, Unity (C++), React.js, Node.js, Express  
   - React, HTML/CSS, MongoDB, SQL  
 - **Concepts:** Object-Oriented Programming, RESTful APIs, Agile Methodologies
 
