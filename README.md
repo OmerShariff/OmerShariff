@@ -1,44 +1,98 @@
-# 👋 Hi there, I'm Omer!
+# 👋 Hi, I'm Mohammed Sheriff
 
-I'm a passionate and results-driven **Software Engineer** with strong foundations in computer science and real-world experience building scalable applications. I specialize in writing clean, efficient, and maintainable code across various platforms.
+### Network & Security Engineer | Cloud Networking | Network Automation
 
----
+I'm a Network & Security Engineer with 5+ years of experience supporting enterprise network, cloud, and security infrastructures. My expertise includes routing and switching, network security, firewalls, VPNs, cloud networking, and security operations.
 
-## 🛠️ Tech Stack & Skills
+I'm passionate about designing secure, scalable, and highly available network environments while continuously learning new technologies in networking, cybersecurity, and automation.
 
-- **Languages:** Java, Python, JavaScript, C++
-- **DevOps & Cloud:** AWS, CI/CD pipelines, Docker, GitHub Actions
-- **Frameworks & Tools:**  
-  - Android SDK, Unity (C++), React.js, Node.js, Express  
-  - React, HTML/CSS, MongoDB, SQL  
-- **Concepts:** Object-Oriented Programming, RESTful APIs, Agile Methodologies
+## 🛠️ Technical Skills
 
----
+### Network Engineering
 
-## 🎓 Education
+* Cisco Routing & Switching
+* OSPF, BGP, EIGRP
+* VLANs, STP, EtherChannel
+* TCP/IP, DNS, DHCP, NAT
+* MPLS, SD-WAN
+* Cisco Nexus Data Center Networking
+* VPN Technologies (IPsec, SSL VPN)
 
-- **M.S. in Software Engineering**  
-- **B.S. in Computer Science**
+### Network Security
 
----
+* Palo Alto Networks (Panorama, GlobalProtect)
+* Fortinet FortiGate
+* Cisco ASA
+* Check Point Firewalls
+* IDS/IPS
+* SSL Decryption
+* Zero Trust Security
+* Network Segmentation
+* Access Control & Policy Management
 
-## 💼 Projects & Experience
+### Cloud & Security
 
-I've worked on a variety of projects across different domains, including:
+* Microsoft Azure Networking
+* Virtual Networks (VNets)
+* VPN Gateway
+* Network Security Groups (NSGs)
+* Identity & Access Management (IAM)
+* Prisma Cloud
+* Zscaler (ZIA, ZPA)
+* Data Loss Prevention (DLP)
 
-- 📱 **Android Development** – Designed mobile apps with intuitive user interfaces and backend integration.
-- 🎮 **Game Development** – Built immersive 2D/3D games using Unity and C++.
-- 🌐 **Web Development** – Full-stack web apps using modern frameworks (React, Node.js, Express).
-- ⚙️ **DevOps & Automation** – Set up CI/CD pipelines, automated deployments, and infrastructure on AWS.
+### Monitoring & Operations
 
-> I'm always exploring new technologies and challenging myself with new projects.
+* SolarWinds
+* Splunk
+* Log Analysis
+* Incident Response
+* Security Operations (SecOps)
+* Network Troubleshooting
+* Root Cause Analysis
 
----
+### Automation & Scripting
 
-## 📫 Let's Connect!
+* Python
+* Ansible
+* Git & GitHub
+* Network Automation
+* REST APIs
 
-- [LinkedIn](https://www.linkedin.com/in/omersheriff/)   
-- Email: omerfirasath@gmail.com
+## 📚 Current Learning
 
----
+* Cisco CCNA
+* Palo Alto Networks Firewalls
+* Advanced Routing & Switching
+* Network Automation with Python & Ansible
+* Cloud Security & Zero Trust Architectures
 
+## 🚀 GitHub Projects
+
+This GitHub profile showcases my hands-on networking and security labs, including:
+
+* Cisco Packet Tracer Labs
+* CCNA Practice Topologies
+* Network Troubleshooting Scenarios
+* Palo Alto Firewall Configurations
+* Python Network Automation Scripts
+* Ansible Network Automation Playbooks
+* Azure Networking Labs
+* Security Monitoring & Log Analysis Projects
+* Infrastructure Documentation & Diagrams
+
+## 🎯 Career Interests
+
+* Network Engineering
+* Network Security Engineering
+* Cloud Networking
+* Security Operations (SecOps)
+* Network Automation
+* Infrastructure Engineering
+
+## 📫 Connect With Me
+
+* LinkedIn: [Add Your LinkedIn URL]
+* Email: [Add Your Professional Email]
+
+Always open to collaborating on networking, security, cloud, and automation projects.
